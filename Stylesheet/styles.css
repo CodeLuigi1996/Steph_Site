@@ -1,3 +1,4 @@
+/* #wrapper margins, width and padding set */
 #wrapper{
     margin-right: auto;
     margin-left: auto;
@@ -5,6 +6,7 @@
     padding-right: 10px;
     padding-left: 10px;
 }
+/* #header style set */
 #header {
     border-style: dotted;
     font-size: 60px;
@@ -13,6 +15,7 @@
     border-width: 20px;
     margin-top: 30px;
 }
+/* body element section */
 body {
     background-color: violet;
 }
