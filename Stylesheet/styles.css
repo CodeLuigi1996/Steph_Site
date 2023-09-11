@@ -5,3 +5,6 @@
     padding-right: 10px;
     padding-left: 10px;
 }
+#header {
+    border-style: dotted;
+}
